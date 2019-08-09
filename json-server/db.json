@@ -1,0 +1,876 @@
+{
+  "posts": [],
+  "courses": [
+    {
+      "id": "Photography",
+      "posts": [
+        {
+          "title": "iPhone Photography | Take Professional Photos On Your iPhone",
+          "author": "Dale McManus",
+          "img": "/assets/images/courses/1392122_6c4c_3.jpg",
+          "price": "руб.4,799",
+          "currentPrice": "руб.899",
+          "stars": 4.8,
+          "rating": "2,860",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Posing Like A Pro: The Ultimate Posing Flow! Part 2",
+          "author": "Sandy Dee",
+          "img": "/assets/images/courses/1329886_4e9f_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "94",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete JavaScript Course 2019: Build Real Projects!",
+          "author": "Jonas Schmedtmann",
+          "img": "/assets/images/courses/851712_fc61_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "42,953",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Adobe Lightroom Classic CC & CC: Photo Editing Masterclass",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/926234_4a1a_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "3,595",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete Video Production Bootcamp",
+          "author": "William Carnahan",
+          "img": "/assets/images/courses/1027180_475e_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "3,639",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Photography Masterclass: A Complete Guide to Photography",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/1462428_639f_7.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "16,318",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Adobe Lightroom Classic CC & CC: Photo Editing Masterclass",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/926234_4a1a_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "3,595",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete Video Production Bootcamp",
+          "author": "William Carnahan",
+          "img": "/assets/images/courses/1027180_475e_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "3,639",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Business",
+      "posts": [
+        {
+          "title": "iPhone Photography | Take Professional Photos On Your iPhone",
+          "author": "Dale McManus",
+          "img": "/assets/images/courses/1392122_6c4c_3.jpg",
+          "price": "руб.4,799",
+          "currentPrice": "руб.899",
+          "stars": 4.8,
+          "rating": "2,860",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Photography Masterclass: A Complete Guide to Photography",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/1462428_639f_7.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "16,318",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Adobe Lightroom Classic CC & CC: Photo Editing Masterclass",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/926234_4a1a_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "3,595",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Posing Like A Pro: The Ultimate Posing Flow! Part 2",
+          "author": "Sandy Dee",
+          "img": "/assets/images/courses/1329886_4e9f_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "94",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete JavaScript Course 2019: Build Real Projects!",
+          "author": "Jonas Schmedtmann",
+          "img": "/assets/images/courses/851712_fc61_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "42,953",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Adobe Lightroom Classic CC & CC: Photo Editing Masterclass",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/926234_4a1a_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "3,595",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete Video Production Bootcamp",
+          "author": "William Carnahan",
+          "img": "/assets/images/courses/1027180_475e_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "3,639",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Photography Masterclass: A Complete Guide to Photography",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/1462428_639f_7.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "16,318",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Design",
+      "posts": [
+        {
+          "title": "The Complete Web Developer Course 2.0",
+          "author": "Rob Percival",
+          "img": "/assets/images/courses/764164_de03_2.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "47,230",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete JavaScript Course 2019: Build Real Projects!",
+          "author": "Jonas Schmedtmann",
+          "img": "/assets/images/courses/851712_fc61_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "42,953",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Adobe Lightroom Classic CC & CC: Photo Editing Masterclass",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/926234_4a1a_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "3,595",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete Video Production Bootcamp",
+          "author": "William Carnahan",
+          "img": "/assets/images/courses/1027180_475e_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "3,639",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete JavaScript Course 2019: Build Real Projects!",
+          "author": "Jonas Schmedtmann",
+          "img": "/assets/images/courses/851712_fc61_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "42,953",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Photography Masterclass: A Complete Guide to Photography",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/1462428_639f_7.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "16,318",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Adobe Lightroom Classic CC & CC: Photo Editing Masterclass",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/926234_4a1a_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "3,595",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Unreal Engine C++ Developer: Learn C++ and Make Video Games",
+          "author": "Ben Tristem",
+          "img": "/assets/images/courses/657932_c7e0_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "24,850",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Development",
+      "posts": [
+        {
+          "title": "Complete Python Bootcamp: Go from zero to hero in Python 3",
+          "author": "Pierian Data International by Jose Portilla",
+          "img": "/assets/images/courses/567828_67d0.jpg",
+          "price": "руб.19,299",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "149,783",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Web Developer Bootcamp",
+          "author": "Colt Steele",
+          "img": "/assets/images/courses/625204_436a_2.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.7,
+          "rating": "118,998",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete Web Developer Course 2.0",
+          "author": "Rob Percival",
+          "img": "/assets/images/courses/764164_de03_2.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "47,230",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete JavaScript Course 2019: Build Real Projects!",
+          "author": "Jonas Schmedtmann",
+          "img": "/assets/images/courses/851712_fc61_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "42,953",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Adobe Lightroom Classic CC & CC: Photo Editing Masterclass",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/926234_4a1a_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "3,595",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete Video Production Bootcamp",
+          "author": "William Carnahan",
+          "img": "/assets/images/courses/1027180_475e_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "3,639",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete JavaScript Course 2019: Build Real Projects!",
+          "author": "Jonas Schmedtmann",
+          "img": "/assets/images/courses/851712_fc61_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "42,953",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Unreal Engine C++ Developer: Learn C++ and Make Video Games",
+          "author": "Ben Tristem",
+          "img": "/assets/images/courses/657932_c7e0_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "24,850",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Popular",
+      "posts": [
+        {
+          "title": "Complete Python Bootcamp: Go from zero to hero in Python 3",
+          "author": "Pierian Data International by Jose Portilla",
+          "img": "/assets/images/courses/567828_67d0.jpg",
+          "price": "руб.19,299",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "149,783",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Photography Masterclass: A Complete Guide to Photography",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/1462428_639f_7.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "16,318",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete JavaScript Course 2019: Build Real Projects!",
+          "author": "Jonas Schmedtmann",
+          "img": "/assets/images/courses/851712_fc61_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.6,
+          "rating": "42,953",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Adobe Lightroom Classic CC & CC: Photo Editing Masterclass",
+          "author": "Phil Ebiner",
+          "img": "/assets/images/courses/926234_4a1a_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "3,595",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete Video Production Bootcamp",
+          "author": "William Carnahan",
+          "img": "/assets/images/courses/1027180_475e_5.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "3,639",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "The Complete Web Developer Course 2.0",
+          "author": "Rob Percival",
+          "img": "/assets/images/courses/764164_de03_2.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.5,
+          "rating": "47,230",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        },
+        {
+          "title": "Unreal Engine C++ Developer: Learn C++ and Make Video Games",
+          "author": "Ben Tristem",
+          "img": "/assets/images/courses/657932_c7e0_3.jpg",
+          "price": "руб.19,799",
+          "currentPrice": "руб.899",
+          "stars": 4.4,
+          "rating": "24,850",
+          "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+          "update": "01/2019",
+          "category": "iPhone",
+          "lectures": "50",
+          "hours": "12,5",
+          "levels": "All levels",
+          "objective": [
+            "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+            "You will learn how to use Databases",
+            "You will learn MySQL"
+          ]
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "title": "Development",
+      "icon": "calculator"
+    },
+    {
+      "title": "Business",
+      "icon": "barChart"
+    },
+    {
+      "title": "IT and Software",
+      "icon": "desktop"
+    },
+    {
+      "title": "Design",
+      "icon": "dashboard"
+    },
+    {
+      "title": "Marketing",
+      "icon": "control"
+    },
+    {
+      "title": "Personal Development",
+      "icon": "lock"
+    },
+    {
+      "title": "Photography",
+      "icon": "camera"
+    },
+    {
+      "title": "Music",
+      "icon": "sound"
+    }
+  ],
+  "comments": [
+    {
+      "title": "Borivoje",
+      "icon": "",
+      "description": "I don't have the time or money for a college education. My goal is to become a freelance web developer, I'm really close."
+    },
+    {
+      "title": "Dipesh",
+      "icon": "",
+      "description":"I believe in lifelong learning. I've learned a lot and recommend it to all my friends.\n"
+    },
+    {
+      "title": "Kathy",
+      "icon": "",
+      "description":"The courses are fantastic and the instructors are so fun and knowledgeable. I only wish we found it sooner.\n"
+    },
+    {
+      "title": "Zulaika",
+      "icon": "",
+      "description":"I work in project management and joined because I get great courses for less. The instructors are fantastic, interesting, and helpful.\n"
+    },
+    {
+      "title": "Marco",
+      "icon": "",
+      "description":"Thank you! You've renewed my passion for learning and my dream of becoming a web developer."
+    },
+    {
+      "title": "Justin",
+      "icon": "",
+      "description":"The best part is the selection. You can find a course for anything you want to learn!"
+    }
+  ]
+}
