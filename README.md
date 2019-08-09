@@ -1,7 +1,7 @@
 #JSON-Server
 
 ## This code is used by the fake backend for the project https://magora-react-university.herokuapp.com/
-
+## This code deployment on https://magora-react-university-api
 
 ## Run the application locally
 
