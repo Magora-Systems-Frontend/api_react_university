@@ -1,4 +1,4 @@
-# React Sample App
+#JSON-Server
 
 ## This code is used by the fake backend for the project https://magora-react-university.herokuapp.com/
 
