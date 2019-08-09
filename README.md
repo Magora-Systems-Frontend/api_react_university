@@ -1,5 +1,8 @@
 # React Sample App
 
+## This code is used by the fake backend for the project https://magora-react-university.herokuapp.com/
+
+
 ## Run the application locally
 
 ### Dependencies
@@ -15,12 +18,7 @@ after cloning the repo:
 $ npm i
 
 # to run server
-$ npm run json-server
-
-# to run dev 
-# head over to http://0.0.0.0:8020
-$ npm run dev
-
+$ npm start
 
 ```
 
@@ -31,10 +29,7 @@ after cloning the repo:
 
 install dependencies
 npm i --production
-
-to run prod client and server
-head over to  http://0.0.0.0:8022
-$ npm run build
+npm start
 
 
 ```

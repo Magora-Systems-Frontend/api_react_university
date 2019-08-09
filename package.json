@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm run json-server",
-    "json-server": "node ./json-server/server.js"
+    "start": "node ./json-server/server.js"
   },
   "author": "",
   "license": "ISC",
